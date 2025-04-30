@@ -1,10 +1,6 @@
-package org1.example;
+package javabasics.org;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class firstest
 {
     public static void main( String[] args )
     {
